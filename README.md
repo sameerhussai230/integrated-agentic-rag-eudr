@@ -10,7 +10,7 @@
 GeoTrace-EUDR automates the "Due Diligence" process required by **Regulation (EU) 2023/1115**. By integrating Sentinel-2 satellite telemetry with a Retrieval-Augmented Generation (RAG) Legal Agent, the system provides:
 1.  **Forensic Land Analysis:** Multi-spectral classification (NDVI, GNDVI, NDWI) to detect forest degradation.
 2.  **Legal Reasoning:** Automated drafting of compliance statements referencing specific EU Articles (3, 9, 24).
-3.  **Audit Generation:** Creation of journal-grade forensic PDF reports.
+3.  **Audit Generation:** Creation of forensic PDF reports.
 
 ## 🏗️ System Architecture
 
