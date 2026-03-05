@@ -1,7 +1,16 @@
-.venv/
+# .gitignore
 __pycache__/
-*.tif
-*.png
-*.json
+*.pyc
+.venv/
 .env
-.DS_Store
+
+# Ignore heavy satellite data
+data/raw/*
+data/processed/*.tif
+data/processed/*.png
+data/chroma_db/
+
+# But keep the legal docs and PDF reports for the repo
+!data/legal_docs/
+!data/processed/*.pdf
+!data/processed/*.json

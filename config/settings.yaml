@@ -3,7 +3,6 @@
 
 satellite:
   collection: "sentinel-2-l2a"
-  # Default cloud tolerance if not specified dynamically
   max_cloud_cover: 25 
 
 paths:
