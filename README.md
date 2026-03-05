@@ -2,7 +2,6 @@
 
 **An AI-driven geospatial framework for automating compliance with the European Union Deforestation Regulation (EUDR).**
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.11-green)
 
 ## 📖 Abstract
