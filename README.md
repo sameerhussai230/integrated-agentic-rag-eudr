@@ -3,6 +3,8 @@
 **An AI-driven geospatial framework for automating compliance with the European Union Deforestation Regulation (EUDR).**
 
 ![Python](https://img.shields.io/badge/python-3.11-green)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+
 
 ## 📖 Abstract
 GeoTrace-EUDR automates the "Due Diligence" process required by **Regulation (EU) 2023/1115**. By integrating Sentinel-2 satellite telemetry with a Retrieval-Augmented Generation (RAG) Legal Agent, the system provides:
